@@ -18,9 +18,9 @@ texture:
   title: Zan Tang
   tagline: NLPer. Developer.
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
@@ -29,10 +29,6 @@ texture:
     # linkedIn: in/thelehhman
     # rss: rss
  
-  style: blue
-
-  showPicker: false
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
