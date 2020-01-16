@@ -25,11 +25,11 @@ texture:
   # generate social links in footer
   social_links:
     # twitter: thelehhman
-    github:  https://zantang@github.com
+    github:  zantang
     # linkedIn: in/thelehhman
     # rss: rss
  
-  style: black
+  style: [black]
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
