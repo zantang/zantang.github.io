@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Zan Tang
+  tagline: NLPer. Developer.
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,11 +24,12 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    # twitter: thelehhman
+    github:  https://zantang@github.com
+    # linkedIn: in/thelehhman
+    # rss: rss
  
+  style: black
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
